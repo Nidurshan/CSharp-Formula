@@ -1,0 +1,15 @@
+C:\Users\Nidurshan\Desktop\Formula\bin\Debug\net6.0\Desktop.exe
+C:\Users\Nidurshan\Desktop\Formula\bin\Debug\net6.0\Desktop.deps.json
+C:\Users\Nidurshan\Desktop\Formula\bin\Debug\net6.0\Desktop.runtimeconfig.json
+C:\Users\Nidurshan\Desktop\Formula\bin\Debug\net6.0\Desktop.dll
+C:\Users\Nidurshan\Desktop\Formula\bin\Debug\net6.0\Desktop.pdb
+C:\Users\Nidurshan\Desktop\Formula\obj\Debug\net6.0\Desktop.csproj.AssemblyReference.cache
+C:\Users\Nidurshan\Desktop\Formula\obj\Debug\net6.0\Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nidurshan\Desktop\Formula\obj\Debug\net6.0\Desktop.AssemblyInfoInputs.cache
+C:\Users\Nidurshan\Desktop\Formula\obj\Debug\net6.0\Desktop.AssemblyInfo.cs
+C:\Users\Nidurshan\Desktop\Formula\obj\Debug\net6.0\Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Nidurshan\Desktop\Formula\obj\Debug\net6.0\Desktop.dll
+C:\Users\Nidurshan\Desktop\Formula\obj\Debug\net6.0\refint\Desktop.dll
+C:\Users\Nidurshan\Desktop\Formula\obj\Debug\net6.0\Desktop.pdb
+C:\Users\Nidurshan\Desktop\Formula\obj\Debug\net6.0\Desktop.genruntimeconfig.cache
+C:\Users\Nidurshan\Desktop\Formula\obj\Debug\net6.0\ref\Desktop.dll
