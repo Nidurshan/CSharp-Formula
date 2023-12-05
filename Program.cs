@@ -11,6 +11,11 @@
 
             var findRectrangleArea = new FindRectrangleArea();
             findRectrangleArea.CalculateRectrangleArea();
+
+            //======= Find circle circumference ========
+
+            var findCircleCircumference = new FindCircleCircumference();
+            findCircleCircumference.calculateCircleCircumference();
         }
     }
 }
