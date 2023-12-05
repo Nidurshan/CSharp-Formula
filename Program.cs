@@ -4,18 +4,23 @@
     {
         public static void Main(string[] args)
         {
-            var findSqureArea = new FindSqureArea();
-            findSqureArea.CalculateSqureArea();
+            // var findSqureArea = new FindSqureArea();
+            // findSqureArea.CalculateSqureArea();
 
-            //======= Find rectrangle area ========
+            // //======= Find rectrangle area ========
 
-            var findRectrangleArea = new FindRectrangleArea();
-            findRectrangleArea.CalculateRectrangleArea();
+            // var findRectrangleArea = new FindRectrangleArea();
+            // findRectrangleArea.CalculateRectrangleArea();
 
-            //======= Find circle circumference ========
+            // //======= Find circle circumference ========
 
-            var findCircleCircumference = new FindCircleCircumference();
-            findCircleCircumference.calculateCircleCircumference();
+            // var findCircleCircumference = new FindCircleCircumference();
+            // findCircleCircumference.calculateCircleCircumference();
+
+            //========= Find circle area ===========
+
+            var findCircleArea = new FindCircleArea();
+            findCircleArea.CalculateCircleArea();
         }
     }
 }
