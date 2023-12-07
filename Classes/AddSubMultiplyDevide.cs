@@ -15,11 +15,20 @@ namespace Formula.Classes
             Console.Write("Enter second num: ");
             var secondNum = int.Parse(Console.ReadLine());
 
-            char[] operators = {'+', '-', '*', '/'};
-            for(int i = 0; i < operators.Length; i++)
-            {
-                Console.WriteLine(firstNum + operators[i] + secondNum);
-            }
+            // Displaying addition of the two numbers
+            Console.WriteLine("{0} + {1} = {2}", firstNum, secondNum, firstNum + secondNum);
+
+            // Displaying subtraction of the two numbers
+            Console.WriteLine("{0} - {1} = {2}", firstNum, secondNum, firstNum - secondNum);
+
+            // Displaying multiplication of the two numbers
+            Console.WriteLine("{0} x {1} = {2}", firstNum, secondNum, firstNum * secondNum);
+
+            // Displaying division of the two numbers
+            Console.WriteLine("{0} / {1} = {2}", firstNum, secondNum, firstNum / secondNum);
+
+            // Displaying modulus (remainder) of the two numbers
+            Console.WriteLine("{0} mod {1} = {2}", firstNum, secondNum, firstNum % secondNum);
         }
     }
 }
