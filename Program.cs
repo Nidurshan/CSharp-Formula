@@ -21,6 +21,11 @@
 
             var findCircleArea = new FindCircleArea();
             findCircleArea.CalculateCircleArea();
+
+            //========= Add Sub Multiply Devide ==========
+
+            var addSubMultiplyDevide = new AddSubMultiplyDevide();
+            addSubMultiplyDevide.CalculateAddSubMultiplyDevide();
         }
     }
 }
